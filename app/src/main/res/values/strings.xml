@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TasarimOdev</string>
+    <string name="yazi1">Simple</string>
+    <string name="yazi2" >luxury</string>
+    <string name="yazi3">and simplicity</string>
+    <string name="yazi4">hotel</string>
+    <string name="kategori">Categories</string>
+    <string name="Aparment">Apartment</string>
+    <string name="DesignBedroom">Design Bedroom</string>
+    <string name="similarDesign">Similar Design</string>
+    <string name="aciklama">torem ipsum is simply dummy text of the printing and typesetting industry . Lorem ipsum has been the industry is standart dummy text ever since the 1500s.when an unknown printer tack.  </string>
+
+
+</resources>
